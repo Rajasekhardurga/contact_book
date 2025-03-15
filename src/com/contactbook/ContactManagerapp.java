@@ -44,7 +44,7 @@ package com.contactbook;
 	        System.out.print("Enter your name: ");
 	        String name = sc.nextLine();
 
-	        System.out.print("Enter email: ");
+	        System.out.print("Enter your email: ");
 	        String email = sc.nextLine();
 
 	       // System.out.print("Enter image path: ");
