@@ -4,6 +4,6 @@
 /**
  * 
  */
-module ContactBook {
+module Contact_Book {
 	requires java.sql;
 }

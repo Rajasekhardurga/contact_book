@@ -41,7 +41,7 @@ package com.contactbook;
 	        System.out.print("Enter phone number: ");
 	        String phoneNumber = sc.nextLine();
 
-	        System.out.print("Enter name: ");
+	        System.out.print("Enter your name: ");
 	        String name = sc.nextLine();
 
 	        System.out.print("Enter email: ");
